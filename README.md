@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<This is the game that you never ask for! >
 <html>
   <head>
     <title>Protein District</title>
@@ -9,7 +9,7 @@
       <p id="currentTime"></p>
       <script src="script.js"></script>
   </body>
-</html><!DOCTYPE html>
+</html><هذه هي اللعبة التي لم تطلبها أبدًا!>
 <html>
 <head>
     <title>Random Number Generator</title>
